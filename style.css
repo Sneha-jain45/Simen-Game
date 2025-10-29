@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family:fantasy;
+    font-weight: 20;
+    background-color: rgb(242, 238, 233);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+.one{
+    background-color: pink;
+}
+.two{
+    background-color: rgb(202, 150, 53);
+}
+.three{
+    background-color: rgb(68, 68, 174);
+}
+.four{
+    background-color: rgb(58, 140, 172);
+}
+.flash{
+    background-color: white;
+}
